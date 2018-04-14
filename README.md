@@ -1,4 +1,4 @@
-# Bitxoxo-Contract
+# XOXO Token Contract
 Bitxoxo (XOXO) Token contract source code.
 
 ## Contract address
